@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/awx000006",
-	"version": "1.0.202004021824",
+	"version": "1.0.202004170906",
 	"description": "添加通讯录联系人",
 	"scripts": {
 		"test": "tsc -w",
